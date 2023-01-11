@@ -1,0 +1,15 @@
+{"child":
+    {
+        "url":"http://127.0.0.1:8554",
+        "operator":"0xfefa3bc164b7eba36a23d78dfc0bbf2d62de7ef3",
+        "bridge":"0x6F00592E9339121D7773AF150EE0C4f1f77B8d1A",
+        "token":"0xa95F63B93Ba9469ad439A2aC3a8577e3423733e8"
+    },
+"parent":
+    {
+        "url":"http://127.0.0.1:8553",
+        "operator":"0x92a34307ed247f191858a8813a6dccf9f331fb52",
+        "bridge":"0x3e2E28f4dc8DFa8E41B4BE8714A02F9500033DC0",
+        "token":"0x8AEcfF1Cc86e653Da5E45ec2731710688ba7E364"
+    }
+}
